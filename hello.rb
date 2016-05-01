@@ -1,1 +1,1 @@
-hello, #{ARGV.first}!"
+Hello, #{name}!
